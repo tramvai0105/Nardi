@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tramvai0105.github.io/Nardi/static/css/main.a7a5315a.css",
+    "main.js": "/tramvai0105.github.io/Nardi/static/js/main.54ae7e8b.js",
+    "static/media/back.jpg": "/tramvai0105.github.io/Nardi/static/media/back.55bf4323c0c513d9313e.jpg",
+    "static/media/uberblack.jpg": "/tramvai0105.github.io/Nardi/static/media/uberblack.0401b617da09f79e3519.jpg",
+    "static/media/nardi.png": "/tramvai0105.github.io/Nardi/static/media/nardi.82e446fb021a71d2fb13.png",
+    "static/media/BlenderPro-Medium.eot": "/tramvai0105.github.io/Nardi/static/media/BlenderPro-Medium.29e7e8fd53c5e9d62748.eot",
+    "static/media/BlenderPro-Medium.ttf": "/tramvai0105.github.io/Nardi/static/media/BlenderPro-Medium.aa0028d9551c98c16a87.ttf",
+    "static/media/unterwhite.jpg": "/tramvai0105.github.io/Nardi/static/media/unterwhite.0cca0aa1481b55ec7148.jpg",
+    "index.html": "/tramvai0105.github.io/Nardi/index.html",
+    "main.a7a5315a.css.map": "/tramvai0105.github.io/Nardi/static/css/main.a7a5315a.css.map",
+    "main.54ae7e8b.js.map": "/tramvai0105.github.io/Nardi/static/js/main.54ae7e8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7a5315a.css",
+    "static/js/main.54ae7e8b.js"
+  ]
+}
