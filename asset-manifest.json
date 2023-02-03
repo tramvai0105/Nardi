@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/Nardi/static/css/main.dd98b190.css",
-    "main.js": "/Nardi/static/js/main.b716cee9.js",
+    "main.css": "/Nardi/static/css/main.973f8e72.css",
+    "main.js": "/Nardi/static/js/main.27849b55.js",
+    "static/js/845.3c9bd8c4.chunk.js": "/Nardi/static/js/845.3c9bd8c4.chunk.js",
     "static/media/back.jpg": "/Nardi/static/media/back.55bf4323c0c513d9313e.jpg",
+    "static/media/kazino.mp3": "/Nardi/static/media/kazino.ebaad713790b75336fbc.mp3",
     "static/media/uberblack.jpg": "/Nardi/static/media/uberblack.0401b617da09f79e3519.jpg",
-    "static/media/nardi.png": "/Nardi/static/media/nardi.82e446fb021a71d2fb13.png",
+    "static/media/nardi.png": "/Nardi/static/media/nardi.eb47553d99b5c81d657a.png",
     "static/media/BlenderPro-Medium.eot": "/Nardi/static/media/BlenderPro-Medium.29e7e8fd53c5e9d62748.eot",
     "static/media/BlenderPro-Medium.ttf": "/Nardi/static/media/BlenderPro-Medium.aa0028d9551c98c16a87.ttf",
     "static/media/unterwhite.jpg": "/Nardi/static/media/unterwhite.0cca0aa1481b55ec7148.jpg",
+    "static/media/chip.mp3": "/Nardi/static/media/chip.e66865876d9ab0cbbeed.mp3",
     "index.html": "/Nardi/index.html",
-    "main.dd98b190.css.map": "/Nardi/static/css/main.dd98b190.css.map",
-    "main.b716cee9.js.map": "/Nardi/static/js/main.b716cee9.js.map"
+    "main.973f8e72.css.map": "/Nardi/static/css/main.973f8e72.css.map",
+    "main.27849b55.js.map": "/Nardi/static/js/main.27849b55.js.map",
+    "845.3c9bd8c4.chunk.js.map": "/Nardi/static/js/845.3c9bd8c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd98b190.css",
-    "static/js/main.b716cee9.js"
+    "static/css/main.973f8e72.css",
+    "static/js/main.27849b55.js"
   ]
 }
