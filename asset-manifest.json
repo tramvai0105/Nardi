@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Nardi/static/css/main.973f8e72.css",
-    "main.js": "/Nardi/static/js/main.cdc62e27.js",
+    "main.css": "/Nardi/static/css/main.997a4f22.css",
+    "main.js": "/Nardi/static/js/main.a625c56d.js",
     "static/js/845.3c9bd8c4.chunk.js": "/Nardi/static/js/845.3c9bd8c4.chunk.js",
     "static/media/back.jpg": "/Nardi/static/media/back.55bf4323c0c513d9313e.jpg",
     "static/media/kazino.mp3": "/Nardi/static/media/kazino.ebaad713790b75336fbc.mp3",
@@ -12,12 +12,12 @@
     "static/media/unterwhite.jpg": "/Nardi/static/media/unterwhite.0cca0aa1481b55ec7148.jpg",
     "static/media/chip.mp3": "/Nardi/static/media/chip.e66865876d9ab0cbbeed.mp3",
     "index.html": "/Nardi/index.html",
-    "main.973f8e72.css.map": "/Nardi/static/css/main.973f8e72.css.map",
-    "main.cdc62e27.js.map": "/Nardi/static/js/main.cdc62e27.js.map",
+    "main.997a4f22.css.map": "/Nardi/static/css/main.997a4f22.css.map",
+    "main.a625c56d.js.map": "/Nardi/static/js/main.a625c56d.js.map",
     "845.3c9bd8c4.chunk.js.map": "/Nardi/static/js/845.3c9bd8c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.973f8e72.css",
-    "static/js/main.cdc62e27.js"
+    "static/css/main.997a4f22.css",
+    "static/js/main.a625c56d.js"
   ]
 }
